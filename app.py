@@ -13,6 +13,7 @@ st.set_page_config(
 
 # CSS personalizat
 st.markdown("""
+            
     <style>
         :root {
             --primary: #1f77b4;
